@@ -1,4 +1,4 @@
-# Chrome DarkBlue Theme
+# Chrome Quantum
 
 Updated for the new Chrome redesign! Please update to Chrome v69 for full compatibility with this theme. 
 
