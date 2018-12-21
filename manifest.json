@@ -1,0 +1,28 @@
+{
+	"manifest_version": 2,
+
+	"name": "Chrome Quantum",
+	"description": "A flat Bluedark theme for Chrome.",
+	"version": "1.0.0",
+
+	"theme": {
+		"colors": {
+			"frame": [30, 32, 64],
+			"frame_inactive": [30, 32, 64],
+			"frame_incognito": [37, 0, 62],
+			"frame_incognito_inactive": [37, 0, 62],
+            "tab_text": [241, 243, 244],
+			"tab_background_text": [249, 249, 250],
+			"toolbar": [249, 249, 250],
+			"ntp_text": [2, 1, 10]
+		},
+		"tints": {
+			"buttons": [0, 0, 0.68],
+            "buttons_inactive": [0, 0, 0.1]
+		},
+		"properties": {
+			"ntp_logo_alternate": 0,
+			"ntp_background_repeat": "repeat"
+		}
+	}
+}
