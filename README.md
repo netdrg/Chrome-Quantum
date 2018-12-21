@@ -1,5 +1,5 @@
 # Chrome Quantum
-(https://raw.githubusercontent.com/netdrg/Chrome-Quantum/master/WebStore/preview.png)
+![First schematic](https://raw.githubusercontent.com/netdrg/Chrome-Quantum/master/WebStore/preview.png)
 
 Updated for the new Chrome redesign! Please update to Chrome v69 for full compatibility with this theme. 
 
